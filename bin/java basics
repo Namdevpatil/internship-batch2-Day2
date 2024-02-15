@@ -1,0 +1,18 @@
+- Logical operators:
+		- &&, || and !
+		
+
+- conditional statements:
+		- if statement
+		- if-else
+			- applications of if-else
+					- nested if-else
+					- else-if ladder
+		- switch-case
+		
+- conditional loops
+		- for: when we know the number iteration, then we can use for loop 
+		- while: when we do not know the number iteration, then we can use while loop 
+		- do-while: here this loop will do post condition checking.
+
+- break and continue
